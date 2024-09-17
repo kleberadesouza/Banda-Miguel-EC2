@@ -3,9 +3,14 @@ Este repositório contém o passo a passo para a configuração e gerenciamento 
 
 Etapas incluídas:
 
-Configuração da Instância EC2: Criação de uma nova instância Amazon Linux 2.
-Conexão via SSH: Uso de chave privada para acessar a instância.
-Gerenciamento de Armazenamento: Criação e anexação de um volume EBS.
-Formatação e Montagem: Configuração do volume com um sistema de arquivos e montagem na instância.
-Criação de Arquivos: Criação e armazenamento de um arquivo de texto no volume montado.
-Exploração de Recursos: Verificação do status do volume e do conteúdo do arquivo criado.
+- Configuração da Instância EC2: Criação de uma nova instância Amazon Linux 2.
+
+- Conexão via SSH: Uso de chave privada para acessar a instância.
+
+- Gerenciamento de Armazenamento: Criação e anexação de um volume EBS.
+
+- Formatação e Montagem: Configuração do volume com um sistema de arquivos e montagem na instância.
+
+- Criação de Arquivos: Criação e armazenamento de um arquivo de texto no volume montado.
+
+- Exploração de Recursos: Verificação do status do volume e do conteúdo do arquivo criado.
